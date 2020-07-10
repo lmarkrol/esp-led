@@ -1,2 +1,2 @@
 # esp-led
- controling GPIO on ESP-BOARD
+ controlling GPIO on ESP-BOARD
